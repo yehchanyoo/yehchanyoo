@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Yehchan, and I am currently a M.S. Statistics student at University of Washington, projected to graduate at the end of March 2026!
+
+Feel free to visit my portfolio website (https://yehchanyoo.github.io) or wander around my Github profile for my past work!
+
 <!--
 **yehchanyoo/yehchanyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
