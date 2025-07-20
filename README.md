@@ -4,7 +4,7 @@ My name is Yehchan, and I am currently a M.S. Statistics student at University o
 
 Feel free to visit my portfolio website (https://yehchanyoo.github.io) or wander around my Github profile for my past work!
 
-Additionally, I am currently the Graduate Student Representative (GSR) for my graduate program. If you have questions about the program, feel free to email me at yehchany@uw.edu.
+Additionally, I am currently the Graduate Student Representative (GSR) for [my graduate program](https://stat.uw.edu/academics/graduate/fulltimemasters). If you have questions about the program, feel free to email me at yehchany@uw.edu.
 
 <!--
 **yehchanyoo/yehchanyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
